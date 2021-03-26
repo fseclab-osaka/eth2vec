@@ -3,6 +3,7 @@
 ## Overview
 Eth2Vec is an analysis tool based on a neural network for natural language processing, and it outputs the existence and kind of vulnerabilities in a target smart contract code by only taking the code as input. 
 Using Eth2Vec, you can analyze code of smart contracts quickly even without expert knowledge on smart contract vulnerabilities.
+The paper of Eth2Vec is published on https://arxiv.org/abs/2101.02377.
 
 ![overview_eth2vec](https://github.com/fseclab-osaka/eth2vec/blob/main/images/overview_Eth2Vec.png)
 
