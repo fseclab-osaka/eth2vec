@@ -8,7 +8,7 @@ Using Eth2Vec, you can analyze code of smart contracts quickly even without expe
 
 ## Install Instruction
 We implemented Eth2Vec by utilizing **Kam1n0 version 2.0.0** (https://github.com/McGill-DMaS/Kam1n0-Community) and **py-solc-x** (https://pypi.org/project/py-solc-x/). 
-You have to install Kam1n0 server before installing Eth2Vec.
+You need to install Kam1n0 server before installing Eth2Vec.
 
 ### Install Kam1n0 server
 1. Create clone of **Kam1n0** (https://github.com/McGill-DMaS/Kam1n0-Community) onto your local.
