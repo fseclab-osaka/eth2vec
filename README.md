@@ -8,7 +8,9 @@ Using Eth2Vec, you can analyze code of smart contracts quickly even without expe
 # Install
 We implemented Eth2Vec by utilizing **Kam1n0 version 2.0.0** (https://github.com/McGill-DMaS/Kam1n0-Community) and **py-solc-x** (https://pypi.org/project/py-solc-x/). 
 
-1. Create clone of **Kam1n0** (https://github.com/McGill-DMaS/Kam1n0-Community) and **Eth2Vec** (here) 
+1. Create clone of **Kam1n0** (https://github.com/McGill-DMaS/Kam1n0-Community) and **Eth2Vec** (this) onto your local.
+2. 
+
 First, the main module, PV-DM model, was implemented by \texttt{Kam1n0}, 
 which is a server system~\cite{Ding2016Kam1n0} utilized for binary analysis~\cite{asm2vec}. 
 We mainly modified the source codes in \texttt{DisassemblyFactoryIDA.ja\\va} and \texttt{ExtractBinaryViaIDA.py}. 
