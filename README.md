@@ -11,14 +11,14 @@ We implemented Eth2Vec by utilizing **Kam1n0 version 2.0.0** (https://github.com
 You need to install Kam1n0 server before installing Eth2Vec.
 
 ### Install Kam1n0 server
-1. Create clone of **Kam1n0** (https://github.com/McGill-DMaS/Kam1n0-Community) onto your local.
+1. Create clone of Kam1n0 (https://github.com/McGill-DMaS/Kam1n0-Community) onto your local.
 2. Build Kam1n0 from the source code in `kam1n0`.
 
 ### Install selector of compiler of Solidity
-3. Install **py-solc-x** (https://pypi.org/project/py-solc-x/).
+3. Install py-solc-x (https://pypi.org/project/py-solc-x/).
 
 ### Install Eth2Vec
-4. Create clone of **Eth2Vec** onto your local.
+4. Create clone of Eth2Vec onto your local.
 5. Copy `app` of Eth2Vec to `kam1n0/kam1n0-apps/src/main/java/ca/mcgill/sis/dmas/kam1n0` of Kam1n0.
 6. Copy `bin` of Eth2Vec to `kam1n0/kam1n0-resources` of Kam1n0.
 7. Copy `DisassemblyFactoryIDA.java` in `commons` of Eth2Vec to `kam1n0/kam1n0-commons/src/main/java/ca/mcgill/sis/dmas/kam1n0/impl/disassembly` of Kam1n0.
