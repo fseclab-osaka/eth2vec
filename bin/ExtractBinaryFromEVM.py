@@ -73,8 +73,6 @@ EVMf.get_call(data, callee, end_address)
 #Labeling
 print('give labels to %s' % sol_file_name)
 label_file = '.\\Label.json'
-#label_file = 'C:\\pleiades\\workspace\\Sol2Vec\\Sol-resources\\bin\\Label.json'
-#label_file = 'C:\\Users\\nami\\Desktop\\afterRemixIDE\\ballot\\tmp\\Label.json'
 label = EVMf.get_json(label_file);
 EVMf.labeling(sol_file_name, data, label);
 
